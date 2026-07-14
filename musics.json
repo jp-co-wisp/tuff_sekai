@@ -7380,4 +7380,25 @@
     "liveStageId": 1,
     "fillerSec": 7.571400165557861
   }
+  {
+    "id": 416,
+    "seq": 1132301,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "hey",
+    "pronunciation": "へい",
+    "creator": "test",
+    "lyricist": "test",
+    "composer": "test",
+    "arranger": "test",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_416",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1783121600000,
+    "liveStageId": 1,
+    "fillerSec": 9
+  }
 ]
