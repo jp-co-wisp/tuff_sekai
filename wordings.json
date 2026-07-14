@@ -1501,7 +1501,7 @@
   },
   {
     "wordingKey": "MSG_MODULE_MAINTENANCE",
-    "value": "This feature is currently undergoing maintenance.\nPlease try again later.\nWe apologize for the inconvenience."
+    "value": "This feature is currently not implemented,\nSorry!"
   },
   {
     "wordingKey": "MSG_MOVE_STAGE_FAILED",
